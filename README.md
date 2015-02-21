@@ -17,3 +17,5 @@
 * atmega/attiny avr
 * NRF-модули
 * RF-модули
+
+Свои модули как [здесь.](https://github.com/ClusterM/clunet)
